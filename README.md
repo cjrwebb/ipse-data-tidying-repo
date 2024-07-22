@@ -1,5 +1,7 @@
 # Investing in Prevention: Data Tidying Repository
 
+Cite as: Webb, Calum (2024). Investing in Prevention & Support: Data tidying script and repository. The University of Sheffield. Dataset. https://doi.org/10.15131/shef.data.26348359
+
 This is a published Open Data Repository for the IPSE Project (British Academy Postdoctoral Fellowship grant no. PF21\\210024)
 
 This repository was last tested to recreate the merged administrative data files used in the Investing in Prevention project on 8th May 2024, with the following system:
